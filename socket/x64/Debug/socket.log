@@ -1,0 +1,3 @@
+﻿  socket.cpp
+D:\С++\socket\socket\socket.cpp(105,3): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "RtlZeroMemory"
+  socket.vcxproj -> D:\С++\socket\x64\Debug\socket.exe
